@@ -1,1 +1,2 @@
 # genAI-project
+# AI LEGAL SENTIMENT ANALYSIS
